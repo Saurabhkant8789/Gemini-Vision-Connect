@@ -1,4 +1,4 @@
-# GeminiVisionChat
+# GeminiVisionConnect
 
 This is a Streamlit application that allows users to interact with images by asking questions about them. The app leverages Google's Generative AI model, Gemini, to generate responses based on the provided image and prompt. The main purpose of this application is to provide a seamless experience for exploring visual content through conversational AI.
 
